@@ -5,5 +5,5 @@ export const Index = () =>{
         <div id= "index-page">
         Index Page </div>
      
-    )
-}
+    );
+};

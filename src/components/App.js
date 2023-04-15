@@ -10,7 +10,7 @@ const App = () => {
       <div id="main">
         <NavBar />
         <AppRoutes />
-    <NotFound />
+    
       </div>
     </BrowserRouter>
 
